@@ -1,0 +1,16 @@
+# This simple subroutine takes an argument on the
+# stack, squares it, and leaves the result on the
+# stack
+square: dup
+        mul
+        ret
+
+# The test routine. Read in an integer, square it
+# and output the result.
+main: decl n
+      in n
+      push n
+      call square
+      pop ans
+      out ans
+      hlt

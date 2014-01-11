@@ -1,0 +1,13 @@
+#  Files: Card.py, Deck.py, Hand.py, Poker.py
+#
+# Description: generates and evaluates N poker hands
+#
+# Student's Name:Zach Tidwell
+#
+# Student's UT EID: zt659
+#
+# Course Name: CS 313E 
+#
+# Date Created: 09/20/11	
+#
+# Date Last Modified:09/22/11

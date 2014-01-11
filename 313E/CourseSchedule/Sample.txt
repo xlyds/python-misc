@@ -1,0 +1,10 @@
+54505:CS301K:Foundations of Logical Thought:MWF:10:PAI 3.14:Eberlein, M
+54640:CS313E:Elements of Software Design:MWF:9:WAG 201:Young, W
+54830:CS361:Intro to Computer Security:MWF:11:RAS 310:Young, W
+53110:CH301:Principles of Chemistry I:MWF:11:WEL 2.224:McCord, S
+02445:ACC310F:Foundations of Accounting:MW:11:UTC 2.112A:Verduzco, D
+34145:E603A:Comp and Reading in World Lit:MWF:9:CRD 007B:Doherty, B
+34195:E314J:Literature and Religion-W:TT:9:CAL 200:Squires, L
+56675:M302:Introduction to Mathematics:MWF:20:CPE 2.214:Irwin, C
+56755:M305G:Elem Functs and Coord Geometry:MWF:16:RLM 2.118:Girao, D
+56825:M408C:Differen and Integral Calculus:MWF:8:WRW 102:Fonken, D
